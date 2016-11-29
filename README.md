@@ -1,5 +1,5 @@
 #### 2016-11 
-- [Overview of Topic-based Chinese Message Polarity Classification in SIGHAN 2015(2015)](notes/Overview-of-Topic-based-Chinese-Message-Polarity-Classification-in-SIGHAN-2015.md)
+- [Overview of Topic-based Chinese Message Polarity Classification in SIGHAN 2015(2015)](notes/Overview-of-Topic-based-Chinese-Message-Polarity-Classification-in-SIGHAN-2015.md)  [[link]](http://aclweb.org/anthology/W/W15/W15-3110.pdf)
 - [Gaussian LDA for Topic Models withWord Embeddings(2015)](notes/Gaussian-LDA-for-Topic-Models-withWord-Embeddings.md)  [[link]](http://www.aclweb.org/old_anthology/P/P15/P15-1077.pdf)
 - [Attention-based LSTM for Aspect-level Sentiment Classification(2016 EMNLP)](notes/Attention-based-LSTM-for-Aspect-level-Sentiment-Classification.md)  [[link]](http://www.aclweb.org/anthology/D/D16/D16-1058.pdf)
 - [Predicting Disease Transmission from Geo-Tagged Micro-Blog Data(2012)](notes/predicting-disease-transmission.md)  [[link]](http://cs.rochester.edu/u/kautz/papers/Sadilek-Kautz-Silenzio_Predicting-Disease-Transmission-from-Geo-Tagged-Micro-Blog-Data_AAAI-2012.pdf)
