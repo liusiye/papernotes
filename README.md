@@ -1,3 +1,7 @@
+#### 2016-12
+- [Topic-Based Chinese Message Sentiment Analysis: A Multilayered Analysis System(2015)](notes/Topic-Based-Chinese-Message-Sentiment-Analysis:-A-Multilayered-Analysis-System.md)  [[link]](http://www.anthology.aclweb.org/W/W15/W15-3122.pdf)
+
+
 #### 2016-11 
 - [Overview of Topic-based Chinese Message Polarity Classification in SIGHAN 2015(2015)](notes/Overview-of-Topic-based-Chinese-Message-Polarity-Classification-in-SIGHAN-2015.md)  [[link]](http://aclweb.org/anthology/W/W15/W15-3110.pdf)
 - [Gaussian LDA for Topic Models withWord Embeddings(2015)](notes/Gaussian-LDA-for-Topic-Models-withWord-Embeddings.md)  [[link]](http://www.aclweb.org/old_anthology/P/P15/P15-1077.pdf)
