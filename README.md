@@ -1,5 +1,6 @@
 #### 2016-12
 
+- [NEUDM: A System for Topic-Based Message Polarity Classification(2015)](notes/NEUDM:-A-System-for-Topic-Based-Message-Polarity-Classification.md)
 - [An combined sentiment classification system for SIGHAN-8(2015)](notes/An-combined-sentiment-classification-system-for-SIGHAN-8.md)
 - [Fast and accurate sentiment classification using an enhanced Naive Bayes model(2013)](notes/Fast-and-accurate-sentiment-classification-using-an-enhanced-Naive-Bayes-model.md) [[link]](https://arxiv.org/ftp/arxiv/papers/1305/1305.6143.pdf)
 - [A Joint Model for Chinese Microblog Sentiment Analysis(2015)](notes/A-Joint-Model-for-Chinese-Microblog-Sentiment-Analysis.md)  [[link]](http://www.anthology.aclweb.org/W/W15/W15-3111.pdf)
